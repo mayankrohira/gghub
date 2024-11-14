@@ -1,0 +1,235 @@
+{
+    "customer_profiles": [
+      {
+        "profile_name": "Social Media Maven",
+        "recommended_products": [
+          {
+            "name": "Barclays Cashback Credit Card",
+            "description": "Earn cashback on everyday spending, particularly for online purchases, subscriptions, and social media platform ads."
+          },
+          {
+            "name": "Barclays Blue Rewards",
+            "description": "Earn rewards for simple actions like paying bills, saving, or making payments."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Exclusive Partnerships",
+            "description": "Access to digital subscriptions (e.g., Spotify, Netflix, or Adobe) to support content creation or entertainment."
+          },
+          {
+            "offer_name": "Social Media Perks",
+            "description": "Discounts or perks on influencer platforms or social media management tools."
+          }
+        ]
+      },
+      {
+        "profile_name": "Globe-Trotting Adventurer",
+        "recommended_products": [
+          {
+            "name": "Barclays Travel Credit Card",
+            "description": "Earn travel rewards, no foreign transaction fees, and benefits for flights, hotels, and car rentals."
+          },
+          {
+            "name": "Barclays Premier Travel Insurance",
+            "description": "Comprehensive coverage for travel, including medical and trip cancellation benefits."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Travel Perks",
+            "description": "Access to airport lounges and priority check-in services with travel partners."
+          },
+          {
+            "offer_name": "Rewards Points",
+            "description": "Earn extra points for booking flights, hotels, or travel-related purchases abroad."
+          }
+        ]
+      },
+      {
+        "profile_name": "Tech-Driven Professional",
+        "recommended_products": [
+          {
+            "name": "Barclays Digital Bank Account",
+            "description": "Fully digital banking solution with mobile app features for easy money management and integration with tech tools."
+          },
+          {
+            "name": "Barclays Premier Banking",
+            "description": "Comprehensive financial advice and support for high-net-worth individuals."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Tech Device Financing",
+            "description": "Financing or discount deals on the latest tech gadgets like laptops, tablets, or smart home devices."
+          },
+          {
+            "offer_name": "Exclusive Early Access",
+            "description": "Early access to new digital innovations or fintech product launches."
+          }
+        ]
+      },
+      {
+        "profile_name": "Wellness Warrior",
+        "recommended_products": [
+          {
+            "name": "Barclays Green Card",
+            "description": "Rewards eco-friendly purchases like organic foods, fitness memberships, or sustainable products."
+          },
+          {
+            "name": "Barclays Investment Services",
+            "description": "Personalized approach to sustainable investments in green funds or wellness-related businesses."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Health & Fitness Discounts",
+            "description": "Special discounts on health-related apps, gyms, or wellness retreats."
+          },
+          {
+            "offer_name": "Wellness Challenges",
+            "description": "Fitness or mental health challenges with rewards for meeting goals (e.g., free health check-ups)."
+          }
+        ]
+      },
+      {
+        "profile_name": "Digital Gaming Guru",
+        "recommended_products": [
+          {
+            "name": "Barclays Entertainment Card",
+            "description": "Cashback or discounts on gaming purchases, including in-app purchases, gaming consoles, and accessories."
+          },
+          {
+            "name": "Barclays Instant Access Savings Account",
+            "description": "Save funds for the latest gaming gear or upcoming game releases."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Exclusive Game Beta Access",
+            "description": "Access to exclusive beta tests or early access to new game releases."
+          },
+          {
+            "offer_name": "Gaming Tournaments",
+            "description": "Sponsorship of gaming competitions with cash prizes for cardholders."
+          }
+        ]
+      },
+      {
+        "profile_name": "Epicurean Explorer",
+        "recommended_products": [
+          {
+            "name": "Barclays Dining Card",
+            "description": "Cashback or discounts at top restaurants, cafes, and food delivery services."
+          },
+          {
+            "name": "Barclays Premium Checking",
+            "description": "Includes benefits like free access to gourmet food and wine-tasting events."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Exclusive Dining Experiences",
+            "description": "Invitations to private wine-tasting events, gourmet food festivals, or private chef experiences."
+          },
+          {
+            "offer_name": "Restaurant Partnerships",
+            "description": "Special promotions or discounts with high-end restaurants or curated food tours."
+          }
+        ]
+      },
+      {
+        "profile_name": "Eco-Warrior",
+        "recommended_products": [
+          {
+            "name": "Barclays Green Savings Account",
+            "description": "Savings account that directs a portion of interest earnings to sustainability projects."
+          },
+          {
+            "name": "Barclays Green Mortgages",
+            "description": "Competitive rates for eco-friendly homebuyers or energy-efficient home improvements."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Sustainability Rewards",
+            "description": "Bonuses for making eco-friendly purchases, like electric vehicle charging discounts."
+          },
+          {
+            "offer_name": "Donation Matching",
+            "description": "Match donations to environmental charities for regular contributors."
+          }
+        ]
+      },
+      {
+        "profile_name": "The Busy Executive",
+        "recommended_products": [
+          {
+            "name": "Barclays Premier Banking",
+            "description": "Tailored financial services and investment advice for high-net-worth individuals."
+          },
+          {
+            "name": "Barclays Concierge Service",
+            "description": "VIP service to assist with travel, personal errands, and business needs."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Exclusive Events & Networking",
+            "description": "Invitations to high-level networking events or business seminars."
+          },
+          {
+            "offer_name": "Priority Services",
+            "description": "VIP customer service with dedicated relationship managers and personalized offers."
+          }
+        ]
+      },
+      {
+        "profile_name": "Wealth Architect",
+        "recommended_products": [
+          {
+            "name": "Barclays Wealth Management",
+            "description": "Comprehensive wealth management services covering investments, tax planning, and retirement strategies."
+          },
+          {
+            "name": "Barclays Private Bank Account",
+            "description": "Bespoke financial solutions with tailored services for long-term financial growth."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Personalized Investment Reports",
+            "description": "Regular, in-depth reports on market trends, investment opportunities, and financial advice."
+          },
+          {
+            "offer_name": "Exclusive Access",
+            "description": "VIP access to high-net-worth investment opportunities, real estate developments, or luxury asset management."
+          }
+        ]
+      },
+      {
+        "profile_name": "Home and Hearth Guardian",
+        "recommended_products": [
+          {
+            "name": "Barclays Home Insurance",
+            "description": "Coverage for property, contents, and family protection against unexpected events."
+          },
+          {
+            "name": "Barclays Fixed-Rate Mortgage",
+            "description": "Stable, predictable payments for homeowners seeking security."
+          }
+        ],
+        "appealing_offers": [
+          {
+            "offer_name": "Home Improvement Loans",
+            "description": "Low-interest loans for home renovations or eco-friendly home upgrades."
+          },
+          {
+            "offer_name": "Family Benefits",
+            "description": "Access to family-related services like home safety workshops or childcare assistance."
+          }
+        ]
+      }
+    ]
+  }
+  
